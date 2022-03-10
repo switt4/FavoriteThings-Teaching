@@ -1,6 +1,8 @@
 # FavoriteThings-Teaching
 Repository for testing skills learned in git-teaching
 
+Concept borrowed from: https://github.com/poormanme/itsASmallMagneticWorld
+
 ## Instructions
 
 Using the skills learned in the git-teaching session:
